@@ -5,3 +5,4 @@ Flask-SQLAlchemy==3.0.3
 Flask-Migrate==4.0.4
 psycopg2-binary==2.9.6
 passlib==1.7.4
+Flask-JWT-Extended==4.4.4
